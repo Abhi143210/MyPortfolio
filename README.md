@@ -1,6 +1,6 @@
 ## Portfolio with ReactJS and Sanity.io
 
-![Portfolio Preview](link_to_portfolio_profile.jpg)
+![Portfolio Preview](https://github.com/Abhi143210/MyPortfolio/blob/main/s1.png)
 
 ### Table of Contents
 
@@ -20,10 +20,19 @@ This is a responsive portfolio website built using ReactJS for the frontend and 
 
 - Home: A landing page introducing the portfolio owner.
 - About: A section highlighting the portfolio owner's background and skills.
+  ![About](https://github.com/Abhi143210/MyPortfolio/blob/main/s2.png)
+
 - Work: Displaying previous work projects or a portfolio gallery.
+    ![work](https://github.com/Abhi143210/MyPortfolio/blob/main/s3.png)
+
 - Skills: Listing the skills and technologies the portfolio owner possesses.
+      ![Skills](https://github.com/Abhi143210/MyPortfolio/blob/main/s4.png)
+
 - Contact: A contact form for users to get in touch with the portfolio owner.
+     ![contact](https://github.com/Abhi143210/MyPortfolio/blob/main/s5.png)
+
 - Academics: Information about the portfolio owner's educational background.
+   ![Academics](https://github.com/Abhi143210/MyPortfolio/blob/main/s6.png)
 - Skill Experience: Details of the portfolio owner's experiences related to their skills.
 
 ### Technologies Used
