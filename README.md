@@ -1,3 +1,50 @@
+## Portfolio with ReactJS and Sanity.io
+
+![Portfolio Preview](link_to_portfolio_profile.jpg)
+
+### Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Backend Setup](#backend-setup)
+- [Contact Me](#contact-me)
+
+### Introduction
+
+This is a responsive portfolio website built using ReactJS for the frontend and Sanity.io as the backend. The portfolio showcases various sections including home, about, work, skills, contact information, academics, and skill experiences. The contact form allows users to send messages, which are stored in the Sanity.io backend.
+
+### Features
+
+- Home: A landing page introducing the portfolio owner.
+- About: A section highlighting the portfolio owner's background and skills.
+- Work: Displaying previous work projects or a portfolio gallery.
+- Skills: Listing the skills and technologies the portfolio owner possesses.
+- Contact: A contact form for users to get in touch with the portfolio owner.
+- Academics: Information about the portfolio owner's educational background.
+- Skill Experience: Details of the portfolio owner's experiences related to their skills.
+
+### Technologies Used
+
+- Frontend:
+  - ReactJS: A popular JavaScript library for building user interfaces.
+  - [Add any additional frontend technologies/libraries used]
+
+- Backend:
+  - Sanity.io: A headless CMS for storing and managing the portfolio data.
+
+- Deployment:
+  - Netlify: The portfolio website is deployed on Netlify.
+  
+### Portfolio Link
+
+The portfolio is live and can be accessed at: [Portfolio Link](https://abhi-hosangadi-frontend.netlify.app)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -14,57 +61,30 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+The website should now be accessible at http://localhost:3000.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Backend Setup
+The contact form data is stored in the Sanity.io backend. To set up the backend:
 
-### `npm run build`
+### Sign up for an account at Sanity.io.
+- Create a new project and set up the required schema for storing the contact form data.
+- Obtain the project ID and token required for the backend configuration.
+-Add the required Schemas.
+## Data Management
+Sanity.io provides a powerful content management system that allows you to manage the data for your portfolio easily. You can use the Sanity Studio to add, edit, and delete content for the various sections of the portfolio. The data is stored in a structured format, making it easy to maintain and update the website.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## To access the Sanity Studio:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Go to Sanity.io and log in to your account.
+Navigate to your project and select "Go to Studio" to open the Sanity Studio dashboard.
+Here, you can manage the content for your portfolio sections and customize the schema as needed.
+## Contact Me
+If you have any questions, suggestions, or would like to get in touch, feel free to contact me at:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Email: your-email@example.com
+* LinkedIn: [Your LinkedIn Profile URL]
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
